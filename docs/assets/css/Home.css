@@ -649,3 +649,7 @@
     margin-bottom: 30px;
   }
 }
+
+.invert {
+  filter: invert(1)
+}
